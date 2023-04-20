@@ -1,0 +1,25 @@
+#navPortafolio {
+    font-family: 'Montserrat';
+}
+
+body {
+    font-family: 'Montserrat' !important;
+}
+
+#habilidades {
+    text-decoration: overline !important;
+    color: rgb(71, 70, 68);
+}
+
+#proyectos {
+    text-align: center;
+}
+
+.carruselProyectos {
+    width: 100vw;
+    height: 90vh;
+}
+
+.carousel-item {
+    height: 80vh !important;
+}
