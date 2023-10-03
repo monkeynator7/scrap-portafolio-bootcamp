@@ -6,3 +6,12 @@ Herramientas:
 - HTML
 - CSS/Bootstrap
 - Javascript/Jquery
+
+/// 
+
+This portafoio scrap presents some of the skills I gained on the Full Stack Developer bootcamp by Talento Digital.
+
+Tools: 
+- HTML
+- CSS/Bootstrap
+- Javascript/Jquery
